@@ -1,3 +1,6 @@
 to compile: g++ main.cpp sentenceAnalysis.cpp -o sentenceAnalysis 
-makefile: make
+-
+makefile: make 
+-
 to run: ./sentenceAnalysis
+-
